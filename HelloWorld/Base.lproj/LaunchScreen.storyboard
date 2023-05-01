@@ -27,9 +27,9 @@
                         <color key="backgroundColor" systemColor="systemGray4Color"/>
                         <constraints>
                             <constraint firstItem="ozr-Cx-4q2" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="08A-R0-jNg"/>
-                            <constraint firstItem="ozr-Cx-4q2" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="29" id="0j7-Lm-7tz"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="ozr-Cx-4q2" secondAttribute="trailing" constant="29" id="Omq-64-28Y"/>
+                            <constraint firstItem="ozr-Cx-4q2" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="D0R-mM-zKe"/>
                             <constraint firstItem="ozr-Cx-4q2" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="meo-r7-nMF"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="ozr-Cx-4q2" secondAttribute="trailing" id="tFj-aG-9la"/>
                         </constraints>
                     </view>
                 </viewController>
